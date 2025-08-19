@@ -1,4 +1,4 @@
-# My Pet Buddy 🐾
+# My Pet Buddy 
 
 **Software Engineering Course Project**  
 Umm Al-Qura University – SWE Department  
@@ -33,9 +33,7 @@ It simplifies the adoption process, allows volunteering, and supports pet owners
 
 ## Tech & Tools
 - Documented in **SRS format**  
-- UI prototypes created with **Uizard**:  
-  - [Prototype Link 1](https://app.uizard.io/prototypes/EwL4nKKGR3u7lwamW1Ox/player/preview)  
-  - [Prototype Link 2](https://app.uizard.io/prototypes/mK7ZvQmQxoFQx5j40j0j/player/preview)  
+- UI prototypes created with **Uizard**
 
 ---
 
